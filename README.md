@@ -8,10 +8,11 @@
 
 ## <p align="center">⚔️ Languages ⚔️</p>
 <p align="center">
-  <img src="https://img.shields.io/badge/SQL-%2300618A.svg?style=for-the-badge&logo=php&logoColor=white" alt="PHP" title="PHP"><br>
+  <img src="https://img.shields.io/badge/PHP-%2300618A.svg?style=for-the-badge&logo=php&logoColor=white" alt="PHP" title="PHP"><br>
   <img src="https://img.shields.io/badge/Go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white" alt="Go" title="Go">
-  <img src="https://img.shields.io/badge/Svelte-%23f1413d.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python" title="Python">
+  <img src="https://img.shields.io/badge/Python-%23f1413d.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python" title="Python">
   <img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" title="JavaScript">
+  <img src="https://img.shields.io/badge/React-%23323330.svg?style=for-the-badge&logo=react&logoColor=%23F7DF1E" alt="React" title="React">
 </p>
 
 <p align="center">
