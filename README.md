@@ -14,7 +14,7 @@ Skills: PHP/ Golang / NodeJS / Python / Java / VUE JS / REACT / JS / HTML / CSS
 ![Metrics](/github-metrics.svg)
 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=bithaolee&show_icons=true&count_private=true)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=bithaolee&show_icons=true&count_private=true&theme=radical)  
 
 
 
