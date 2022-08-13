@@ -1,4 +1,3 @@
-![Header](./github-header-image-1.png)
 ### Hi there 👋, my name is Haolee
 #### I am full stack developer
 
