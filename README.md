@@ -1,5 +1,5 @@
 ### Hi there 👋, my name is Haolee
-#### I am full stack developer
+#### I am a full-stack developer
 
 ![Profile views](https://gpvc.arturio.dev/bithaolee)  
 
