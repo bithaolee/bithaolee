@@ -1,7 +1,7 @@
 ### Hi there 👋, my name is Haolee
 #### I am a full-stack web developer
 
-![Profile views](https://gpvc.arturio.dev/bithaolee)  
+![Profile views](https://komarev.com/ghpvc/?username=bithaolee)
 
 I am learning to make some small products, feel free to talk to me.
 
